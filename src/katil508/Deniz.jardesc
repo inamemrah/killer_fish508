@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Tolga/Desktop/Kod Adı 508.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/katil508/src/katil508/Deniz.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/katil508/8.gif"/>
+        <javaElement handleIdentifier="=katil508/src"/>
+        <file path="/katil508/9.gif"/>
+        <file path="/katil508/14.gif"/>
+        <file path="/katil508/.classpath"/>
+        <file path="/katil508/0.gif"/>
+        <file path="/katil508/.project"/>
+        <file path="/katil508/10.gif"/>
+        <file path="/katil508/141.gif"/>
+    </selectedElements>
+</jardesc>
